@@ -1,0 +1,11 @@
+Android Noise Music Demo
+
+Move balls around a screen and convert that into music!
+
+Well this is a mix.
+
+This is 1 part Java android project and 1 part perl and csound project. I've merged both.
+
+See for a demo of this in action! http://www.youtube.com/watch?v=sjjZyB6gtGo
+
+BTW 5balls.orc needs 5balls.wav, a mono 8000hz wave file of your choosing (music is good).
